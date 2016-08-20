@@ -6,6 +6,7 @@
             "path": ".",
             "file_exclude_patterns":
             [
+                "*.ASSET",
                 "*.prefab",
                 "*.dll",
                 "*.meta"

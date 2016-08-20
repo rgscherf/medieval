@@ -509,7 +509,10 @@
 	},
 	"file_history":
 	[
+		"/Users/rgscherf/projects/unity/medieval/medieval.sublime-project",
 		"/Users/rgscherf/projects/unity/medieval/Assets/scripts/SettableColor.cs",
+		"/Users/rgscherf/projects/unity/medieval/Assets/scripts/Palette.cs",
+		"/Users/rgscherf/projects/unity/medieval/Assets/scripts/Entities.cs",
 		"/Users/rgscherf/projects/unity/boatman/Assets/Scripts/UIColor.cs",
 		"/Users/rgscherf/projects/unity/boatman/Assets/Scripts/SettableColor.cs",
 		"/Users/rgscherf/projects/unity/medieval/Assets/scripts/PlayerController.cs",
@@ -648,6 +651,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\"Entities\"",
+			"Entities",
+			"ui",
 			"Image",
 			"background",
 			"UI",
@@ -772,10 +778,7 @@
 			"cargoSlots",
 			"RemoveFromCargo",
 			"destroy",
-			"findgameobjectswithtag",
-			"gameobject",
-			", ",
-			","
+			"findgameobjectswithtag"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -849,6 +852,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"sett",
+				"Assets/scripts/SettableColor.cs"
+			],
+			[
+				"entities",
+				"Assets/scripts/Entities.cs"
+			],
+			[
+				"settable",
+				"Assets/scripts/SettableColor.cs"
+			],
+			[
+				"pa",
+				"Assets/scripts/Palette.cs"
+			],
+			[
+				"entiei",
+				"Assets/scripts/Entities.cs"
+			],
 			[
 				"settabl",
 				"Assets/scripts/SettableColor.cs"
@@ -972,10 +995,6 @@
 			[
 				"ceramicb",
 				"Assets/Scripts/cargoCeramicBroken.cs"
-			],
-			[
-				"entities",
-				"Assets/Scripts/Entities.cs"
 			],
 			[
 				"icar",
@@ -1344,22 +1363,6 @@
 			[
 				"booty",
 				"Assets/BootyController.cs"
-			],
-			[
-				"coincol",
-				"Assets/CoinController.cs"
-			],
-			[
-				"basic",
-				"Assets/Scripts/EnemyBasic.cs"
-			],
-			[
-				"car",
-				"Assets/CargoController.cs"
-			],
-			[
-				"hullcon",
-				"Assets/HullController.cs"
 			]
 		],
 		"width": 0.0
@@ -1384,8 +1387,10 @@
 	},
 	"settings":
 	{
+		"_vintageous_reset_during_init": true,
 		"vintage":
 		{
+			"_cmdline_cd": "/Applications/Sublime Text.app/Contents/MacOS"
 		}
 	},
 	"show_minimap": true,
